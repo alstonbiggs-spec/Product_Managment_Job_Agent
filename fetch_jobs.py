@@ -32,7 +32,7 @@ COMPANIES = [
 TX_KEYWORDS = ["tx", "texas", "austin", "dallas", "fort worth",
                "houston", "san antonio", "round rock"]
 COMPANY_LOC = TX_KEYWORDS + ["remote"]      # target companies: TX or remote
-TITLE_KEYWORDS = ["product manager", "product management"]
+TITLE_KEYWORDS = ["product manager", "product management", "strategy", "product owner", "pm", "program manager", "program management"]
 
 def is_pm(title):     return any(k in (title or "").lower() for k in TITLE_KEYWORDS)
 def ok_loc(loc):      return any(k in (loc or "").lower() for k in COMPANY_LOC)
