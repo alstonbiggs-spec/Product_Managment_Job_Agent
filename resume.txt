@@ -1,0 +1,82 @@
+EDUCATION
+THE UNIVERSITY OF TEXAS AT AUSTIN, McCombs School of Business, Austin, TX May 2028
+Master of Business Administration
+ 700 GMAT; 95th percentile in Data Insights
+THE UNIVERSITY OF CHARLESTON, School of Leadership, Charleston, WV August 2024
+Bachelor of Science in Organizational Leadership
+EXPERIENCE
+DEFENSE NETWORK LLC, Austin, TX Summer 2026 - Current
+Founder
+ Founded Defense Network, a marketplace connecting defense companies, operators, consultants, and capital partners;
+conducted 50 user research interviews and translated findings into a prioritized product roadmap before launching a live beta
+ Solved the marketplace cold-start problem: built an AI engine tracing each company's product across 3 years of USSOCOM
+demand signals (congressional testimony, funding lines, AOIs), delivering value before network effects emerge
+ Shipped a production platform (Next.js, Supabase, Claude, Python) implementing semantic matching through vector
+embeddings; defined KPIs for match quality and user activation to guide iteration
+DARPA COMMERCIAL ACCELERATOR, CAPITAL FACTORY, Austin, TX Winter 2026
+SkillBridge Intern
+ Designed and launched an AI-powered market intelligence platform using Claude, Python, GitHub, and Supabase to automate
+opportunity discovery across a $2.86B R&D portfolio, reducing research from 40+ hours to minutes
+ Prioritized reusable SAM.gov intelligence and fundraising playbooks that scaled support across 10 DARPA startups, enabling
+portfolio companies to identify opportunities and build investor-ready financial strategies
+U.S. ARMY SPECIAL OPERATIONS, 5TH SPECIAL FORCES GROUP, Fort Campbell, KY 2019 - 2026
+Green Beret Manager (2023 - 2026)
+ Directed joint counter-terrorism operations in Syria, leading 35 personnel and managing stakeholders across U.S. military
+intelligence, FBI, and allied agencies; achieved 100% mission success rate while operating with incomplete information
+ Oversaw a 50-person Iraqi Special Forces detachment as Chief Advisor for sensitive operations targeting ISIS personnel in Iraq;
+significantly disrupted ISIS's control of the region and contributed to Iraq's stability and security with 24 missions
+ Led cross-functional alignment across Department of State, FBI, intelligence agencies, and Iraqi partner forces, tailoring
+communication by audience and validating understanding through structured alignment reviews before execution
+Green Beret Senior Communications Sergeant (2022 - 2023)
+ Cut a two-month training program to one month by ruthlessly prioritizing: evaluated tradeoffs, eliminated low-value objectives,
+and preserved mission-critical outcomes under hard deadline constraints
+ Owned communications architecture across 30+ operations, balancing interoperability, redundancy, and risk mitigation to
+deliver reliable real-time coordination systems for distributed teams
+ Managed a $6M operational budget, optimizing procurement and resource allocation for 200+ personnel supporting one of the
+military's largest operational programs in the Middle East
+ Rated in the top 10% of non-commissioned officers and selected for promotion to Sergeant First Class six months ahead of peers
+Green Beret Junior Communications Sergeant (2019 - 2022)
+ Evaluated operational tradeoffs across 20+ multinational training exercises, tailoring communications and mission planning to
+maximize interoperability across allied Special Operations forces
+ Owned $3M of mission-critical communications infrastructure, designing resilient network architecture, contingency plans, and
+redundant systems for Special Operations teams operating in austere environments
+ADDITIONAL
+ Books Read: Zero to One, The Lean Startup, Blue Ocean Strategy, Good Strategy Bad Strategy, Value, The Goal, 7 Powers
+ Certifications: Active Top-Secret Clearance with SCI
+ 51 Vets: Earned through a selective interview with the nonprofit advancing special operations veterans into corporate roles
+ Work Eligibility: Eligible to work in the United States with no restriction
+DARPA COMMERCIAL ACCELERATOR, CAPITAL FACTORY, Austin, TX Winter 2026
+Skillbridge Intern
+ Designed and deployed an AI-powered defense acquisition intelligence platform using Claude API, Supabase, and GitHub to
+produce fit reports across a $1.35B R&D portfolio; reduced market research from 40+ hours to under 5 minutes per engagement
+ Built 5-year financial models for 2 portfolio companies identifying undercapitalization risks and recommending increased raise
+targets while delivering pre-pitch valuations, term structures and projected investor ROI under assumed exit conditions
+ Performed customer validation calls with 50+ stakeholders across two due diligence processes, informing investment decisions
+U.S ARMY SPECIAL OPERATIONS, 5TH SPECIAL FORCES GROUP, Fort Campbell, KY 2019 - Present
+Green Beret Cell Leader (2023 - 2026)
+ Directed joint counter-terrorism operations in Syria by leading 25 Syrian Nationals and 10 Jordanian Special Forces operators;
+coordinated with various U.S. military intelligence, FBI, and Syrian intelligence agencies to achieve a 100% mission success rate
+ Oversaw a 50-person Iraqi Special Forces detachment as Chief Advisor for sensitive operations targeting ISIS personnel in Iraq;
+significantly disrupted ISIS's control of the region and contributed to Iraq's stability and security with 24 missions
+ Developed and supervised 6 Green Berets by conducting quarterly and annual performance reviews fostering professional
+growth, leading to 2 promotions to management and 2 to senior positions
+ Presented over a dozen missions to the Department of State, reporting directly to the Chief of Station, at the U.S. Embassy in
+Iraq to ensure all U.S. and foreign entities were aligned on ISIS targets, leading to 17 missions
+ Planned and implemented a two-week training program for 30 Green Berets to prepare for a $3M certification exercise
+determining deployment readiness, culminating in a successful evaluation and subsequent deployment to Syria
+Green Beret Senior Communications Sergeant (2022 - 2023)
+ Controlled a $6M operational budget as Pay Agent ensuring the procurement of critical equipment and services to 200+ soldiers
+contributing to the success of one of the most effective operational programs in the Middle East
+ Rated in top 10% of non-commissioned officers on annual performance evaluations and selected for promotion to Sergeant First
+Class six months ahead of peers
+ Planned, briefed, and executed communication plans for 30+ training operations in the U.S., including an operation on the
+Hoover Dam, with a $12M budget resulting in 50 team members able to clearly communicate via radio simultaneously
+ Coached 100+ soldiers, by structuring training agendas, assigning responsibilities, and defining objectives
+Green Beret Junior Communications Sergeant (2021 - 2022)
+ Facilitated 20+ joint training exercises with various Middle Eastern special forces teams (Uzbek, Jordanian, Israeli, and Pakistani)
+to strengthen international military partnerships and address shared security challenges to facilitate global collaboration
+ Managed and deployed $3M worth of communications equipment for 10 team members in austere and remote environments to
+generate seamless connectivity with higher command to receive and execute orders in isolated operational conditions
+Green Beret Candidate, Special Forces Qualification Course (2019 - 2021)
+ Completed 900 hours of Arabic language and cultural training to strengthen relationships with Middle Eastern communities
+ Ranked in the top 20% of the Basic and Advanced Leaders Course to develop leadership skills and strategy execution

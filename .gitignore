@@ -1,0 +1,11 @@
+# Secrets — NEVER upload these
+.env
+
+# Your personal job data
+jobs.xlsx
+
+# Python clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
