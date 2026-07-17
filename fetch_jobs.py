@@ -1,6 +1,7 @@
 import os, re, html, requests, pandas as pd
 from dotenv import load_dotenv
 load_dotenv()
+from scrape_builtin import get_builtin_jobs
 
 APP_ID  = os.getenv("ADZUNA_APP_ID")
 APP_KEY = os.getenv("ADZUNA_APP_KEY")
@@ -32,7 +33,7 @@ COMPANIES = [
 TX_KEYWORDS = ["tx", "texas", "austin", "dallas", "fort worth",
                "houston", "san antonio", "round rock"]
 COMPANY_LOC = TX_KEYWORDS + ["remote"]      # target companies: TX or remote
-TITLE_KEYWORDS = ["product manager", "product management", "strategy", "product owner", "pm", "program manager", "program management"]
+TITLE_KEYWORDS = ["product manager", "product management", "product owner", "Program manager"]
 
 def is_pm(title):     return any(k in (title or "").lower() for k in TITLE_KEYWORDS)
 def ok_loc(loc):      return any(k in (loc or "").lower() for k in COMPANY_LOC)
@@ -47,7 +48,7 @@ def get_adzuna_jobs(what="product manager", locations=LOCATIONS, radius_km=RADIU
                   "results_per_page": 50, "max_days_old": 5}
         for r in requests.get(url, params=params).json().get("results", []):
             link = r["redirect_url"]
-            if link in seen: continue
+            if link in seen or not is_pm(r["title"]): continue
             seen.add(link)
             jobs.append({"title": r["title"], "company": r["company"]["display_name"],
                          "location": r["location"]["display_name"],
@@ -120,7 +121,7 @@ def save_new_jobs(jobs):
     return truly_new
 
 if __name__ == "__main__":
-    jobs = get_adzuna_jobs() + get_company_jobs()
+    jobs = get_adzuna_jobs() + get_company_jobs() + get_builtin_jobs()
     print(f"\nFetched {len(jobs)} jobs total")
     new_jobs = save_new_jobs(jobs)
     print(f"{len(new_jobs)} were NEW and saved to {FILE}")
